@@ -12,7 +12,7 @@ fruits.remove("mango")
 fruits.discard("elma")
 fruits.pop()
 
-fruits.clear()
+#fruits.clear()
 
 print(fruits)
 
